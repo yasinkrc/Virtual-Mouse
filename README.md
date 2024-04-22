@@ -1,3 +1,5 @@
+
+#Virtual-Mouse
 Bu Python projesi, bir web kamerası kullanarak el hareketlerini izler ve fare imlecini kontrol eder. Mediapipe, OpenCV ve PyAutoGUI kullanılarak yazılmıştır. İşaret parmağı ve başparmak arasındaki mesafe tespit edilerek fare tıklamaları simüle edilir. Bu uygulama, elleri kullanarak fare imlecini kontrol etmek için tasarlanmıştır.
 
 Gerekli Kütüphaneler
